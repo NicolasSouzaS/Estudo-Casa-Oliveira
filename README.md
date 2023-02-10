@@ -52,3 +52,8 @@ Informação_financeiro(idfinanceiro, despesas, lucro, disponibilidade_cofre ,va
 ### Modelo conceitual
 
 !['Diagrama do modelo conceitual'](./ModelagemConceitual.png)
+
+
+### Modelo lógico
+
+!["Diagrama de modelo lógico de estoque"](./Modelo%20l%C3%B3gico.png)
