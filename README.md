@@ -63,7 +63,7 @@ Informação_financeiro(idfinanceiro, despesas, lucro, disponibilidade_cofre ,va
 ### Modelo físico
 
 #### Código e documentação do modelo físico 
-
+```
 /*
 Para o projeto de banco de dados da casa Oliveira, será criado
 uma estrutura físifca que com os comandos SQL(Structure Query Language
@@ -91,6 +91,7 @@ numéricos e, portanto será definido como int(inteiro).
 
 Vamos criar a tabela de produtos. Esta tabela possui os seguintes campos:
     -idproduto, descricao, fornecedor, validade, lote, preco, nome, marca, categoria
+```
 	
 ```
 	Para cada campo será definido um tipo de dado
