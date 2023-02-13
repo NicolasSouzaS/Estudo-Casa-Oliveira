@@ -165,3 +165,7 @@ ultima_movimentacao date,
 quantidade_lote int
 );
 ```
+
+### Modelo físico - MER(Modelo de Entidade Relacional)
+
+![*Diagrama do Modelo de Entidade Relacional](./Modelo_fisico.png)
